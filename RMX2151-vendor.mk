@@ -11,6 +11,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX2151/proprietary/etc/init/kpoc_charger.rc:$(TARGET_COPY_OUT_SYSTEM)/etc/init/kpoc_charger.rc \
     vendor/realme/RMX2151/proprietary/lib/libshowlogo.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libshowlogo.so \
     vendor/realme/RMX2151/proprietary/lib/libMtkOmxVdecEx.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libMtkOmxVdecEx.so \
+    vendor/realme/RMX2151/proprietary/lib/libsink.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsink.so \
     vendor/realme/RMX2151/proprietary/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptXHD_encoder.so \
     vendor/realme/RMX2151/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so \
 
